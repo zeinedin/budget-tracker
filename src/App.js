@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import logoBudget from './icons/account_balance_wallet.svg';
 import logoSpentThisMonth from './icons/currency_exchange.svg';
-import logoSpentToday from './icons/healthicons_coins.svg';
 import logoAdd from './icons/add_card.svg';
 import logoTransactions from './icons/mingcute_card-pay-fill.svg';
 import logo from './icons/logo.svg';
